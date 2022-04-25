@@ -1,46 +1,46 @@
-# Getting Started with Create React App
+### Formulário multi-etapas com React e typeScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <p>Este projeto foi realizado no React durante um desafio chamado "5 Projetos em 5 Dias" pela [B7Web](https://b7web.com.br)</p>
+</h1>
 
-## Available Scripts
+## Primeiros passos
 
-In the project directory, you can run:
+Baixar todos os modulos com: npm install ou yarn
 
-### `yarn start`
+## Após baixar todos os modulos
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Iniciar com npm start ou yarn start
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🚀 Tecnologias e Bibliotecas
 
-### `yarn test`
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React
+- React-router-dom
+- React-toastify
+- TypeScript
+- Styled-components
 
-### `yarn build`
+## 💻 Projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Pagína de formularios no formato One Page, com o intuito de estudar o uso de rotas, contextApi e estilização com styled-components, entre outros.
+Contém as seguintes components:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Header
+- SideBar
+- Theme (Tema principal que engloba todos os components)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Contém as seguintes rotas principais:
 
-### `yarn eject`
+- FormStep1: '/'
+- FormStep: '/step2'
+- FormStep3: '/step3'
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🔖 Layout
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p align="center">
+  <img alt="MultiForm in React" src="" width="100%">
+</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Aqui você pode visualizar o layout do projeto: [Link]()
