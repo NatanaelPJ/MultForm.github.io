@@ -1,8 +1,7 @@
-### Formulário multi-etapas com React e typeScript
+# Formulário multi-etapas com React e typeScript
 
-<h1 align="center">
-    <p>Este projeto foi realizado no React durante um desafio chamado "5 Projetos em 5 Dias" pela [B7Web](https://b7web.com.br)</p>
-</h1>
+Este projeto foi realizado no React durante um desafio chamado "5 Projetos em 5 Dias" pela [B7Web](https://b7web.com.br)
+
 
 ## Primeiros passos
 
