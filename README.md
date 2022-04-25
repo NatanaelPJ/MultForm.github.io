@@ -1,7 +1,7 @@
 ### Formulário multi-etapas com React e typeScript
 
 <h1 align="center">
-    <p>Este projeto foi realizado no React durante um desafio chamado "5 Projetos em 5 Dias" pela [B7Web](https://b7web.com.br)</p>
+    <p font-size="16px">Este projeto foi realizado no React durante um desafio chamado "5 Projetos em 5 Dias" pela [B7Web](https://b7web.com.br)</p>
 </h1>
 
 ## Primeiros passos
@@ -42,5 +42,5 @@ Contém as seguintes rotas principais:
 <p align="center">
   <img alt="MultiForm in React" src="" width="100%">
 </p>
-
+a
 Aqui você pode visualizar o layout do projeto: [Link]()
