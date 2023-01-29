@@ -1,14 +1,36 @@
-# Formulário multi-etapas com React e typeScript
+# Formulário multi-etapas com React e TypeScript
 
-## Primeiros passos
+## 💻 Projeto
 
-Baixar todos os modulos com: npm install ou yarn
+Pagína de formularios no formato SPA, com o intuito de estudar o uso de rotas, contextApi e estilização com styled-components, entre outros.
 
-## Após baixar todos os modulos
+## Rodando localmente
 
-Iniciar com npm start ou yarn start
+Clone o projeto
 
-## 🚀 Tecnologias e Bibliotecas
+```bash
+  git clone https://github.com/Natanael-de-Paulo/ProjectMovies.git
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd ProjectMovies
+```
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Inicie o servidor
+
+```bash
+  npm run start
+```
+
+## 💻 Tecnologias e Bibliotecas
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -18,9 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - TypeScript
 - Styled-components
 
-## 💻 Projeto
 
-Pagína de formularios no formato One Page, com o intuito de estudar o uso de rotas, contextApi e estilização com styled-components, entre outros.
 Contém as seguintes components:
 
 - Header
