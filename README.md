@@ -41,6 +41,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Styled-components
 
 
+## ⚙ Funcionalidades
+  - em breve...
+
 Contém as seguintes components:
 
 - Header
