@@ -9,7 +9,7 @@ Pagína de formularios no formato SPA, com o intuito de estudar o uso de rotas, 
 Clone o projeto
 
 ```bash
-  git clone https://github.com/Natanael-de-Paulo/ProjectMovies.git
+  git clone https://github.com/Natanael-de-Paulo/MultForm.github.io.git
 ```
 
 Entre no diretório do projeto
