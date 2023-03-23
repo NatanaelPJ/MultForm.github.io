@@ -15,7 +15,7 @@ Clone o projeto
 Entre no diretório do projeto
 
 ```bash
-  cd ProjectMovies
+  cd MultForm.github.io
 ```
 
 Instale as dependências
